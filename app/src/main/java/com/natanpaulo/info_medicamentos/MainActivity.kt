@@ -39,22 +39,37 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun getMedicamentos(){
-        val medicamento1 = Medicamento(R.drawable.dipirona,"Dipirona")
+        val medicamento1 = Medicamento(R.drawable.dipirona,"dipirona")
         listaMedicamentos.add(medicamento1)
 
-        val medicamento2 = Medicamento(R.drawable.dorflex,"Dorflex")
+        val medicamento2 = Medicamento(R.drawable.dorflex,"dorflex")
         listaMedicamentos.add(medicamento2)
 
-        val medicamento3 = Medicamento(R.drawable.paracetamol,"Paracetamol")
+        val medicamento3 = Medicamento(R.drawable.paracetamol,"paracetamol")
         listaMedicamentos.add(medicamento3)
 
-        val medicamento4 = Medicamento(R.drawable.tadalafila,"Tadalafila")
+        val medicamento4 = Medicamento(R.drawable.tadalafila,"tadalafila")
         listaMedicamentos.add(medicamento4)
 
-        val medicamento5 = Medicamento(R.drawable.losartana,"Losartana")
+        val medicamento5 = Medicamento(R.drawable.losartana,"losartana")
         listaMedicamentos.add(medicamento5)
 
-        val medicamento6 = Medicamento(R.drawable.rivotril,"Rivotril")
+        val medicamento6 = Medicamento(R.drawable.rivotril,"rivotril")
         listaMedicamentos.add(medicamento6)
+
+        val medicamento7 = Medicamento(R.drawable.cloreto,"cloreto de sódio")
+        listaMedicamentos.add(medicamento7)
+
+        val medicamento8 = Medicamento(R.drawable.ibuprofeno,"ibuprofeno")
+        listaMedicamentos.add(medicamento8)
+
+        val medicamento9 = Medicamento(R.drawable.buscopan,"buscopan")
+        listaMedicamentos.add(medicamento9)
+
+        val medicamento10 = Medicamento(R.drawable.ozempic,"ozempic")
+        listaMedicamentos.add(medicamento10)
+
+
+
     }
 }

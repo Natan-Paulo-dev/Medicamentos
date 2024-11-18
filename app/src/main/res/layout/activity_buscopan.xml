@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_blue"
+    tools:context=".Buscopan">
+
+    <Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="@color/white"
+        android:title="Detalhes do medicamento"
+        android:titleTextColor="@color/black"
+        android:titleMarginStart="40dp"
+        android:navigationIcon="@drawable/back"
+        />
+
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/toolbar"
+        android:src="@drawable/buscopan"
+        android:layout_marginTop="10dp"
+
+        />
+
+    <TextView
+        android:id="@+id/txt_nomeMedicamento"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nome do medicamento"
+        android:gravity="center"
+        app:layout_constraintTop_toBottomOf="@id/img"
+        android:layout_marginTop="15dp"
+        android:textStyle="bold"
+        android:textSize="21sp"
+        android:textAllCaps="true"
+        android:textColor="@color/black"
+
+        />
+
+    <TextView
+        android:id="@+id/txt_descricao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/txt_nomeMedicamento"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="15dp"
+        android:text="Descrição:  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis sed a provident excepturi. Velit sed doloremque blanditiis amet temporibus! Ut distinctio laboriosam quaerat corporis ex excepturi nisi voluptas impedit voluptatibus."
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/txt_descricao"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="40dp"
+        android:text="Tipo:  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis sed a provident excepturi. Velit sed doloremque blanditiis amet temporibus! Ut distinctio laboriosam quaerat corporis ex excepturi nisi voluptas impedit voluptatibus."
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

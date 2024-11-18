@@ -13,6 +13,39 @@
         android:theme="@style/Theme.Info_medicamentos"
         tools:targetApi="31">
         <activity
+            android:name=".Buscopan"
+            android:exported="false" />
+        <activity
+            android:name=".Ozempic"
+            android:exported="false" />
+        <activity
+            android:name=".Paracetamol"
+            android:exported="false" />
+        <activity
+            android:name=".Ibuprofeno"
+            android:exported="false" />
+        <activity
+            android:name=".CloretoDeSodio"
+            android:exported="false" />
+        <activity
+            android:name=".Rivotril"
+            android:exported="false" />
+        <activity
+            android:name=".Losartana"
+            android:exported="false" />
+        <activity
+            android:name=".Dorflex"
+            android:exported="false" />
+        <activity
+            android:name=".Tadalafila"
+            android:exported="false" />
+        <activity
+            android:name=".Dipirona"
+            android:exported="false" />
+        <activity
+            android:name=".View.DetalheMedicamento"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
@@ -21,6 +54,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
