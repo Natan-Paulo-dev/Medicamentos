@@ -1,4 +1,70 @@
 <resources>
     <string name="app_name">Info_medicamentos</string>
     <string name="jdskfdhes">jdskfdhes</string>
+    <string name="tipo_tadafila">Para quem é indicada a tadalafila?
+Homens adultos: A tadalafila é indicada para homens adultos com disfunção erétil (dificuldade em obter ou manter uma ereção) e para aliviar os sintomas da hiperplasia prostática benigna (HPB), um aumento benigno da próstata.
+Qual a dosagem recomendada?
+
+
+Disfunção erétil: A dose mais comum é de 10 mg, tomada aproximadamente 30 minutos antes da atividade sexual.
+Hiperplasia prostática benigna: A dose pode ser mais baixa e diaria.
+</string>
+    <string name="desc_tadalafila">Tadalafila é um medicamento utilizado para o tratamento da disfunção erétil (DE), mais conhecida como impotência sexual masculina. Ele também é indicado para o tratamento dos sintomas da hiperplasia prostática benigna (HPB), um aumento benigno da próstata.</string>
+    <string name="tipo_rivotril">A dosagem do Rivotril varia de acordo com a condição médica do paciente, a gravidade dos sintomas e a resposta ao tratamento.</string>
+    <string name="desc_rivotril">O Rivotril é o nome comercial do clonazepam, um medicamento que pertence à classe dos benzodiazepínicos. Ele é amplamente utilizado para tratar uma variedade de condições, incluindo:
+
+Convulsões: É eficaz no tratamento de diferentes tipos de epilepsia, como crises tônica-clônicas e ausências.
+Transtornos de ansiedade: Alivia os sintomas de ansiedade generalizada, pânico, fobias e outros transtornos de ansiedade.
+Transtornos do sono: Pode ser utilizado para tratar insônia relacionada à ansiedade.
+Distúrbios do movimento: Ajuda a controlar movimentos involuntários, como os da síndrome das pernas inquietas.</string>
+    <string name="tipo_paracetamol">Para quem o paracetamol é indicado?
+Adultos e crianças: O paracetamol é geralmente seguro para adultos e crianças, desde que seja administrado na dose correta e sob orientação médica.
+Exceções: Existem algumas condições médicas e medicamentos que podem interagir com o paracetamol, por isso é importante consultar um médico antes de usar o medicamento, especialmente em crianças pequenas, idosos e pessoas com problemas de fígado.</string>
+    <string name="desc_paracetamol">O paracetamol é um medicamento amplamente utilizado para aliviar a dor e reduzir a febre. Ele é considerado um dos analgésicos mais seguros e eficazes para o alívio de dores leves a moderadas</string>
+    <string name="tipo_ozempic">Quem pode usar o Ozempic?
+Adultos: O Ozempic é indicado para adultos com diabetes tipo 2 ou com sobrepeso/obesidade.
+Crianças: Não é recomendado para crianças.
+Qual a dosagem recomendada?
+A dosagem do Ozempic varia de acordo com a condição médica do paciente, a gravidade da doença e a resposta ao tratamento. É fundamental seguir as orientações do médico e nunca ajustar a dose por conta própria.</string>
+    <string name="desc_ozempic">O Ozempic é utilizado no tratamento do diabetes mellitus tipo 2, tanto em monoterapia quanto em combinação com outros medicamentos antidiabéticos. Ele ajuda a controlar os níveis de glicose no sangue, reduzindo o risco de complicações da doença, como doenças cardíacas, neuropatia e problemas renais.</string>
+    <string name="tipo_losartana">Quem pode usar a losartana?
+Adultos: A losartana é indicada para adultos com hipertensão arterial ou insuficiência cardíaca.
+Crianças: Em alguns casos, a losartana pode ser utilizada em crianças sob orientação médica.
+Qual a dosagem recomendada?
+A dosagem da losartana varia de acordo com a condição médica do paciente, a gravidade da doença e a resposta ao tratamento. É fundamental seguir as orientações do médico e nunca ajustar a dose por conta própria.</string>
+    <string name="desc_losartana">A losartana é um medicamento amplamente utilizado no tratamento da hipertensão arterial (pressão alta). Ela pertence a uma classe de medicamentos conhecidos como antagonistas dos receptores de angiotensina II (ARAs II).</string>
+    <string name="tipo_ibuprofeno">Tipo de medicamento: Anti-inflamatório não esteroidal (AINE), analgésico e antipirético (reduz a febre).
+Idade recomendada: Geralmente, o ibuprofeno é indicado para adultos e crianças acima de 6 meses. No entanto, a idade exata e a dosagem devem ser sempre definidas por um médico, especialmente em crianças.</string>
+    <string name="desc_ibuprofeno">O ibuprofeno é um medicamento amplamente utilizado para aliviar a dor e reduzir a febre. Pertence à classe dos anti-inflamatórios não esteroides (AINEs), que atuam inibindo a produção de substâncias que causam inflamação e dor no organismo.</string>
+    <string name="tipo_dorflex">Tipo de Medicamento:
+
+Combinado: O Dorflex é considerado um medicamento combinado, pois possui mais de um princípio ativo em sua formulação.
+Idade Recomendada:
+
+Adultos e adolescentes acima de 12 anos: A maioria das formulações de Dorflex é indicada para adultos e adolescentes com mais de 12 anos.
+Crianças: O uso em crianças deve ser sempre orientado por um médico.</string>
+    <string name="desc_dorflex">O Dorflex é um medicamento comumente utilizado para aliviar a dor associada a contraturas musculares e cefaleia tensional. Sua ação combinada de analgésico e relaxante muscular o torna uma opção popular para o tratamento de dores musculares, como dores nas costas e nos membros inferiores, além de dores de cabeça causadas por tensão.</string>
+    <string name="tipo_dipirona">A dipirona é indicada para o tratamento sintomático da dor e da febre em adultos e crianças acima de 3 meses. No entanto, devido aos riscos, seu uso em crianças deve ser avaliado cuidadosamente pelo médico.
+
+
+Efeitos colaterais: Os efeitos colaterais mais comuns incluem: náuseas, vômitos, sonolência, tontura e reações alérgicas. Em casos raros, a dipirona pode causar agranulocitose, uma doença grave que afeta a medula óssea.</string>
+    <string name="desc_dipirona">A dipirona, também conhecida como metamizol, é um medicamento amplamente utilizado para o alívio da dor e da febre. Sua ação analgésica é eficaz em diferentes tipos de dor, como dores de cabeça, musculares, dentárias e cólicas. Além disso, a dipirona possui propriedades antitérmicas, auxiliando na redução da febre.</string>
+    <string name="tipo_sodio">Dosagem e Idade:
+
+Não há dosagem fixa: A quantidade de soro fisiológico a ser utilizada varia de acordo com a necessidade e a forma de aplicação.
+Uso infantil: Pode ser utilizado em crianças, mas sempre sob orientação médica.
+Precauções:
+
+Alergia: Embora rara, algumas pessoas podem apresentar alergia ao soro fisiológico.
+Contaminação: Após aberto, o soro fisiológico deve ser descartado.</string>
+    <string name="desc_sodio">O soro fisiológico, também conhecido como solução salina, é uma solução aquosa de cloreto de sódio (sal de cozinha) com concentração de 0,9%. Essa solução é isotônica em relação aos líquidos corporais, ou seja, possui a mesma concentração de sais minerais que o nosso sangue. Vale lembrar que ele em si não considerado um medicamento.</string>
+
+    <string name="tipo_buscopan">Para quem é indicado?
+O Buscopan é indicado para adultos e crianças acima de 6 anos para o alívio de:
+
+Cólicas: menstruais, renais, biliares e intestinais.
+Dores abdominais: causadas por úlceras, gastrite e outros problemas digestivos.
+Espasmos musculares: em diferentes partes do corpo.
+Importante: Consulte sempre um médico antes de iniciar qualquer tratamento, principalmente em caso de crianças, gestantes ou lactantes.</string>
+    <string name="desc_buscopan">Buscopan é um medicamento comumente utilizado para aliviar a dor e os espasmos musculares, especialmente no trato gastrointestinal. Ele age relaxando os músculos lisos do estômago e dos intestinos, aliviando a dor causada por contrações excessivas.</string>
 </resources>

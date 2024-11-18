@@ -57,7 +57,7 @@ class MainActivity : AppCompatActivity() {
         val medicamento6 = Medicamento(R.drawable.rivotril,"rivotril")
         listaMedicamentos.add(medicamento6)
 
-        val medicamento7 = Medicamento(R.drawable.cloreto,"cloreto de sódio")
+        val medicamento7 = Medicamento(R.drawable.cloreto,"soro fisiológico")
         listaMedicamentos.add(medicamento7)
 
         val medicamento8 = Medicamento(R.drawable.ibuprofeno,"ibuprofeno")

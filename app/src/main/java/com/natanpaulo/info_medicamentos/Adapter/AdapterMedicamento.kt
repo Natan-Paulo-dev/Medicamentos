@@ -36,7 +36,7 @@ class AdapterMedicamento (private val context: Context,private val listaMedicame
           }else if (holder.nome.text == "buscopan"){
               val intent = Intent(context, com.natanpaulo.info_medicamentos.Buscopan::class.java)
               context.startActivity(intent)
-          }else if (holder.nome.text == "cloreto de sódio"){
+          }else if (holder.nome.text == "soro fisiológico"){
               val intent = Intent(context, com.natanpaulo.info_medicamentos.CloretoDeSodio::class.java)
               context.startActivity(intent)
           }else if (holder.nome.text == "dipirona"){
