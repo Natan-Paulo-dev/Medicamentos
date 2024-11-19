@@ -1,2 +1,2 @@
 # Medicamentos
- App que fornece informações de forma rápida e simples no para o usuario.
+ App com intuito fornecer informações sobre medicamentos de forma rápida e simples no para o usuario.
